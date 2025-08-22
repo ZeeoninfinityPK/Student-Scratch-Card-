@@ -1,0 +1,8 @@
+Add ability to generate new scratch cards linked to specific schools
+
+Adds `schoolName` field to scratch cards and integrates school selection into the admin dashboard for card generation. Implements auto-generated card codes with school prefixes and updates the UI with relevant school information.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: a5a8ea04-f104-46ca-a96d-a6ef986f38e3
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a2ad8af8-14ae-417f-8e6c-d4eb48586dcb/a5a8ea04-f104-46ca-a96d-a6ef986f38e3/JcgySGj
